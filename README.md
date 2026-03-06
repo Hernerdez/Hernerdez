@@ -4,8 +4,7 @@ Software Engineering grad from Sam Houston State University → IT / Networking 
 
 Right now I'm in **IT / Networking at RelaDyne**, where I handle everything from firewall configurations and router management to system deployments and network troubleshooting. I've set up kiosk machines, configured access points with PoE injectors, and written PowerShell scripts to make my own life easier. If something's broken, I'm probably already halfway through fixing it.
 
-Outside of work, I build things. That's kind of the whole point.
-
+Outside of work, I build things :)!
 ---
 
 ## 🔨 What I'm Building
