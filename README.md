@@ -1,6 +1,6 @@
 # Hey, I'm Roberto 👋
 
-Software Engineering grad from Sam Houston State University → IT / Networking Lead → Full-Stack Developer. The career path keeps evolving, but every step taught me something I still use daily. I went from studying software architecture in school to configuring firewalls and managing network infrastructure at RelaDyne, to building full-stack apps from scratch on my own time. Turns out, problem-solving is problem-solving — the tools just change.
+Software Engineering grad from Sam Houston State University → IT / Networking → Full-Stack Developer. The career path keeps evolving, but every step taught me something I still use daily. I went from studying software architecture in school to configuring firewalls and managing network infrastructure at RelaDyne, to building full-stack apps from scratch on my own time. Turns out, problem-solving is problem-solving — the tools just change.
 
 Right now I'm in **IT / Networking at RelaDyne**, where I handle everything from firewall configurations and router management to system deployments and network troubleshooting. I've set up kiosk machines, configured access points with PoE injectors, and written PowerShell scripts to make my own life easier. If something's broken, I'm probably already halfway through fixing it.
 
